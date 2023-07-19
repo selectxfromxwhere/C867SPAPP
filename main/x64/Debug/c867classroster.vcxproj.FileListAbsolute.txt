@@ -1,0 +1,2 @@
+C:\Users\Jes\source\repos\c867classroster\x64\Debug\c867classroster.exe
+C:\Users\Jes\source\repos\main\x64\Debug\main.cpp.exe
